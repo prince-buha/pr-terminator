@@ -1,7 +1,9 @@
 /*
-You Are Failed
+
 1. WAP to create a class which illustrate the concept of handling all types of exceptions using general exception.
 
+You Are Failed
+	
 */
 
 #include<iostream>
